@@ -1,7 +1,11 @@
 # 🤖 ChatGPT Clone + Afzal Special (React JS)
 
 A modern **ChatGPT Clone** built with **React JS**, powered by API integration.  
-✨ Extra Feature: Type **"Afzal"** to get details about the creator inside the chat.  
+✨ Extra Feature: Type **"Afzal"** to get details about the creator inside the chat.
+
+
+Live Demo
+[https://unique-panda-cb225e.netlify.app/]
 
 ---
 
